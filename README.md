@@ -139,8 +139,6 @@ curl -X PUT http://localhost:3000/api/books/1 \
   -d '{"title":"Novo Título","author":"Novo Autor"}'
 ```
 
-> ⚠️ **Bug conhecido:** ver seção [Problemas Conhecidos](#problemas-conhecidos).
-
 ---
 
 ### `DELETE /api/books/:id`
